@@ -12,5 +12,5 @@
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husovage&layout=donut&theme=tokyonight)](https://github.com/husovage/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseynGPT&layout=donut&theme=tokyonight)](https://github.com/husovage/github-readme-stats)
 
