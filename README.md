@@ -12,5 +12,10 @@
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
  <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
 
+### Github Repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/HuseynGPT/IOS-Calculator-WinForm.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/HuseynGPT/Anket-Task-WinForm.git)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseynGPT&layout=donut&theme=tokyonight)](https://github.com/husovage/github-readme-stats)
 
