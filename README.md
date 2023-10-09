@@ -1,6 +1,8 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <h1 align="center">Hi 👋, I'm Huseyn</h1>
+
 -  **STEP IT Academy**
+
 - Email: **hhuseynv2007@gmail.com**
 
 ### Languages<sup>*</sup>
