@@ -15,7 +15,7 @@
 ### Github Repos
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HuseynGpt&repo=IOS-Calculator-WinForm&show_owner=true)](https://github.com/HuseynGPT/IOS-Calculator-WinForm.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=huseynGpt&repo=Anket-Task-WinForm&show_owner=true)](https://github.com/HuseynGPT/Anket-Task-WinForm.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HuseynGpt&repo=Anket-Task-WinForm&show_owner=true)](https://github.com/HuseynGPT/Anket-Task-WinForm.git)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseynGPT&layout=donut&theme=tokyonight)](https://github.com/husovage/github-readme-stats)
 
