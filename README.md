@@ -5,7 +5,6 @@
 
 - Email: **hhuseynv2007@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=HuseynGPT)
 
 ### Languages<sup>*</sup>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -16,8 +15,8 @@
 <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
 
 ### Github Repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HuseynGpt&repo=IOS-Calculator-WinForm&show_owner=true)](https://github.com/HuseynGPT/IOS-Calculator-WinForm.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HuseynGpt&repo=Anket-Task-WinForm&show_owner=true)](https://github.com/HuseynGPT/Anket-Task-WinForm.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HuseynGpt&repo=IOS-Calculator-WinForm&show_owner=true&theme=tokyonight)](https://github.com/HuseynGPT/IOS-Calculator-WinForm.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HuseynGpt&repo=Anket-Task-WinForm&show_owner=true&theme=tokyonight)](https://github.com/HuseynGPT/Anket-Task-WinForm.git)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseynGPT&layout=donut&theme=tokyonight)](https://github.com/husovage/github-readme-stats)
 
