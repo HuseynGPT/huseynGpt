@@ -1,6 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <h1 align="center">Hi 👋, I'm Huseyn</h1>
 
+<img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 -  **STEP IT Academy**
 
 - Email: **hhuseynv2007@gmail.com**
