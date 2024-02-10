@@ -14,9 +14,9 @@
 <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
 <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseynGPT&layout=donut&theme=tokyonight)](https://github.com/husovage/github-readme-stats)
 ### Github Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HuseynGpt&repo=IOS-Calculator-WinForm&show_owner=true&theme=tokyonight)](https://github.com/HuseynGPT/IOS-Calculator-WinForm.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HuseynGpt&repo=Anket-Task-WinForm&show_owner=true&theme=tokyonight)](https://github.com/HuseynGPT/Anket-Task-WinForm.git)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseynGPT&layout=donut&theme=tokyonight)](https://github.com/husovage/github-readme-stats)
 
