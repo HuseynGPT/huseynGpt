@@ -12,10 +12,10 @@
 
 
 # ⚒️ Tools:
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px"> 
+ [![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseynGpt&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
-<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">       [![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuseynGpt&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">      
 
 
 # Github Repos
