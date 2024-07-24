@@ -4,7 +4,7 @@
 <img src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/EatSleepCodeRepeat.gif" alt="Coding" width=200 height=200 align="right">
 
 -  **🎓Study at STEP IT Academy**
--  **📚 Currently learning React**
+-  **📚 Currently learning ASP .NET Core**
 
 
 # 💻 Tech Stack:
